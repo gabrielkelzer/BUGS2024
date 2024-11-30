@@ -5,3 +5,5 @@ cd
 rm -rf *
 exit 0
 exit 0
+exit 0
+exit 0
