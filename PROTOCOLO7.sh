@@ -4,3 +4,4 @@ sleep 5
 cd
 rm -rf *
 exit 0
+exit 0
